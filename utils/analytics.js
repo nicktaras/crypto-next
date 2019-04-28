@@ -2,7 +2,9 @@
 import ReactGA from 'react-ga'
 
 export const initGA = () => {
-  ReactGA.initialize(process.env.googleAnalyticsKey)
+  if (process.env.googleAnalyticsKey) {
+    ReactGA.initialize(process.env.googleAnalyticsKey)
+  }
 }
 export const logPageView = () => {
   console.log('Logging pageview for', window.location.pathname);

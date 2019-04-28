@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should have rendered the child elements 1`] = `
+<div>
+  <p>
+    Hello World
+  </p>
+</div>
+`;
