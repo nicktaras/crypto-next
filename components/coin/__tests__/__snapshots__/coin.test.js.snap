@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should create snapshot of coin 1`] = `
+<div
+  className="jsx-2271540330 coin"
+>
+  <i
+    className="jsx-2271540330 cf undefined"
+  />
+</div>
+`;

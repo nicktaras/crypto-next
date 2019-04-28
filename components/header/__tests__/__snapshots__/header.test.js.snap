@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should have the logo svg within the header 1`] = `
+<header
+  className="jsx-4005495942"
+>
+  <div
+    className="jsx-4005495942 wrapper"
+  >
+    <img
+      className="jsx-4005495942"
+      src="./../static/logo.svg"
+    />
+    <h1
+      className="jsx-4005495942"
+    >
+      Crypto-Watch
+    </h1>
+  </div>
+</header>
+`;
