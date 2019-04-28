@@ -12,4 +12,9 @@ https://nextjs.org/docs
 Apply global styles to page
 https://github.com/zeit/next.js/wiki/Global-styles-and-layouts
 
+## Example
+
+Run use, yarn dev
+Export use, yarn export
+
 
